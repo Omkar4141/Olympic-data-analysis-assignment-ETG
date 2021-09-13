@@ -1,1 +1,1 @@
-# Olympic-data-analysis-assignment-ETG
+# Summer-Olympic-Data-Analysis-Assignment-ETG
